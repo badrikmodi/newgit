@@ -7,3 +7,6 @@ with open('orgs.json', 'r') as fp:
     print(type(obj),'---type----')
     x = obj[0]
     print(x,'x')
+
+
+print("otherchanges addition")
